@@ -1,0 +1,1 @@
+Developed a comprehensive portfolio website using HTML, CSS, JavaScript, SCSS, and custom fonts. This project showcases a blend of web development skills and design aesthetics, providing a professional and interactive platform to present personal projects, skills, and achievements.
